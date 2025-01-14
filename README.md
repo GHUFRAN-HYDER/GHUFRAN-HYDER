@@ -52,9 +52,9 @@
 <h2 align="center">💬 Ask me about</h2>
 <ul>
   <li>Designing scalable conversational AI systems</li>
-  <li>Implementing RAG (Retrieval-Augmented Generation) for real-world applications</li>
-  <li>Building custom AI agents for personalized user experiences</li>
-  <li>Optimizing deep learning models for video analysis and natural language processing</li>
+  <li>Implementing RAG (Retrieval-Augmented Generation) for customer interactions</li>
+  <li>Building custom AI agents and multi agents Using langchain or Autogen</li>
+  <li>Optimizing deep learning models</li>
   <li>Integrating AI/ML solutions to address complex business problems</li>
 </ul>
 
