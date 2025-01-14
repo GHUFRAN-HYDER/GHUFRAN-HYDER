@@ -1,17 +1,8 @@
 ## Hi there 👋
 ## I'm Ghufran Hyder
 
-<!--
-**GHUFRAN-HYDER/GHUFRAN-HYDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with implementing AI/ML to solve different business problems
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 const eva = {
   code: ["Python", "SQL"],
@@ -23,8 +14,15 @@ const eva = {
     Vector-databases: [Pinecone, chromadb, FAISS],
     misc: ["Docker", "Kubernetes", "FLASK", "FASTAPI","Langchain","Autogen"]
   },
-  architecture: ["Microservices", "Data Lakes", "ETL Pipelines"],
   currentFocus: ["Building Scalable ML Models", "Conversational Chatbots/RAG", "Natural Language Processing"],
 };
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about
+   How to design scalable conversational AI systems.
+   Implementing RAG (Retrieval-Augmented Generation) for real-world applications.
+   Building custom AI agents for personalized user experiences.
+   Optimizing deep learning models for video analysis and natural language processing.
+   Integrating AI/ML solutions to address complex business problems.
+- 📫 How to reach me:
+  LinkedIn: https://www.linkedin.com/in/ghufranhyder/
+  GitHub: GHUFRAN-HYDER
