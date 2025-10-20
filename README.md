@@ -8,23 +8,6 @@ AI Engineer with hands-on experience in developing, optimizing, and deploying ma
 
 ---
 
-<h2 align="center">🧠 Project Experience</h2>
-
-<ul>
-  <li><b>Secure Multi-Agent Research System (iGenx)</b> – Built a secure, multi-agent deep research platform using <b>MCP servers</b> with session authentication, real-time streaming, and persistent chat memory (MongoDB), deployed on <b>Google Cloud Run</b>.</li>
-  
-  <li><b>Enterprise FMV Builder (iGenx)</b> – Developed an AI-driven market value builder using <b>LangGraph workflows</b> and <b>RAG chains</b> for vendor document analysis, with real-time report generation and automated deployment pipelines.</li>
-  
-  <li><b>Real-Time Speech-to-Speech System (Odd Technologies)</b> – Designed and scaled a <b>low-latency voice interaction system</b> using <b>FastAPI, PyTorch, CUDA, Socket.IO</b>, achieving 50 concurrent streams with <500ms ASR-TTS latency.</li>
-  
-  <li><b>LLM Fine-Tuning Pipeline (Odd Technologies)</b> – Implemented <b>Supervised Fine-Tuning (SFT)</b> using <b>TRL, PEFT, and LoRA</b> on <b>Llama-2-7B</b>, improving empathy and alignment for customer interaction bots.</li>
-  
-  <li><b>On-Prem Conversational Agent (Data AI)</b> – Deployed <b>Llama2</b> with <b>LangChain, FAISS, Selenium</b> pipelines for knowledge-grounded responses, reducing latency and dependency on cloud APIs.</li>
-  
-  <li><b>AI Health Document Intelligence System (Data AI)</b> – Built a medical document extraction engine using <b>Azure OpenAI + GPT-3.5</b>, achieving 95% data accuracy and 90% manual effort reduction.</li>
-</ul>
-
----
 
 <h2 align="center">🧰 Languages and Tools</h2>
 <p align="center">
